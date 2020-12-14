@@ -1,6 +1,6 @@
 const navConfig = {
   'Little Flock Song Book': {
-    url: 'https://littleflock-songbook.netlify.app',
+    url: '/',
     description:
       'Praise and Worship'
   }
